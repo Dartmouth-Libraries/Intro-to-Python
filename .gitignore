@@ -1,6 +1,4 @@
-#venv/
-#.venv
-
+#sub-directories
 old/
 TAW/
 test_*
@@ -14,8 +12,10 @@ countries_110m/
 #data files
 *.csv
 
-#sub-directories
-/old
+#presentation files
+*.pptx
+*.ppt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
