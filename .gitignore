@@ -2,6 +2,7 @@
 #.venv
 
 old/
+test_*
 
 intro-to-python_series_Sp2023/
 countries_110m/
